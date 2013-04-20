@@ -6,7 +6,7 @@ These are the unit tests for the current PureMVC MultiCore Framework for Haxe.
 * [Live Unit Tests (Target: JavaScript)](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/demos/Haxe/MultiCore_UnitTests/indexJs.html&desc=PureMVC%20Haxe%20MultiCore%20Unit%20Tests%20Target:%20JavaScript)
 
 ## Status
-Production - [Version 1.0](https://github.com/PureMVC/puremvc-haxe-multicore-unittests/blob/master/VERSION)
+Production - [Version 1.1](https://github.com/PureMVC/puremvc-haxe-multicore-unittests/blob/master/VERSION)
 
 ## Platforms / Technologies
 * [haxe](http://en.wikipedia.org/wiki/haxe)
